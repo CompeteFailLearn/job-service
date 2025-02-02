@@ -1,7 +1,7 @@
-package com.example.spring_boot_rest.service;
+package com.example.service;
 
-import com.example.spring_boot_rest.dao.UserRepo;
-import com.example.spring_boot_rest.model.User;
+import com.example.dao.UserRepo;
+import com.example.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

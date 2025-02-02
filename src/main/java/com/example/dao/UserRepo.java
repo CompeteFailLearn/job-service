@@ -1,6 +1,6 @@
-package com.example.spring_boot_rest.dao;
+package com.example.dao;
 
-import com.example.spring_boot_rest.model.User;
+import com.example.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepo extends JpaRepository<User, Integer> {

@@ -1,7 +1,7 @@
-package com.example.spring_boot_rest.service;
+package com.example.service;
 
-import com.example.spring_boot_rest.model.JobPost;
-import com.example.spring_boot_rest.repo.JobRepo;
+import com.example.model.JobPost;
+import com.example.repo.JobRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

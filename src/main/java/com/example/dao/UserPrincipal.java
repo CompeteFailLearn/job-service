@@ -1,6 +1,6 @@
-package com.example.spring_boot_rest.dao;
+package com.example.dao;
 
-import com.example.spring_boot_rest.model.User;
+import com.example.model.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

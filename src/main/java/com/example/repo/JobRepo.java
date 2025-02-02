@@ -1,10 +1,9 @@
-package com.example.spring_boot_rest.repo;
+package com.example.repo;
 
-import com.example.spring_boot_rest.model.JobPost;
+import com.example.model.JobPost;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @Repository
