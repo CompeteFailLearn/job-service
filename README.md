@@ -1,4 +1,4 @@
-# Restful Web Service Application For a Job Application Platform
+# RESTful Web Service Application For a Job Application Platform
 
 This project implements a RESTful web service application for a job application platform. The backend is powered by PostgreSQL, which provides robust and reliable database support. The endpoints are secured using Spring Security, which provides username and password authentication. Passwords are securely hashed using `BcryptPasswordEncoder` to ensure user data protection. Additionally, the project leverages Aspect-Oriented Programming (AOP) for logging, enabling efficient and centralized logging of application events and actions.
 
